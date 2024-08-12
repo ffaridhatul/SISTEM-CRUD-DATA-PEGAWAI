@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Mission05\Mission05\bin\Debug\Mission05.exe.config
+C:\Users\Lenovo\source\repos\Mission05\Mission05\bin\Debug\Mission05.exe
+C:\Users\Lenovo\source\repos\Mission05\Mission05\bin\Debug\Mission05.pdb
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.FormSearchEmployee.resources
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.exe
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.pdb
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.MainForm.resources
+C:\Users\Lenovo\source\repos\Mission05\Mission05\obj\Debug\Mission05.FormShowEmployees.resources
